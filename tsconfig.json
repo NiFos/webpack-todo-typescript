@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "allowJs": true,
+    "jsx": "react",
+    "module": "ESNext",
+    "strict": true,
+    "allowSyntheticDefaultImports": true,
+    "isolatedModules": true,
+    "esModuleInterop": true
+  },
+  "include": ["src"]
+}
